@@ -1,0 +1,1 @@
+[Some sort of documentation for it](https://cplusplus.com/doc/)
